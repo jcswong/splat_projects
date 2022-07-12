@@ -1,0 +1,31 @@
+Document list for the BUS-DEMEO ASTEROID TAXONOMY bundle
+========================================================
+
+
+Document Collection Contents
+
+The document collection contains documentation files, where available, for 
+this bundle. All document files will have an accompanying label file to 
+describe content and structure.  Label files have the same name as the main 
+document file, with an extension of ".xml".
+
+classdesc.asc - BUS-DEMEO SPECTRAL CLASS DESCRIPTIONS - This table provides, for each Bus-DeMeo 
+        taxonomic class, its column number in the spectrum file               
+        meanspectra.tab, a description of the spectrum taken                  
+        from Table 5 in DeMeo et al. (2009), and the number of asteroids upon 
+        which the classification is based.
+
+taxocard.pdf - BUS-DEMEO TAXONOMY KEY - This taxonomy key provides thumbnail    
+        mean spectra of each of the 24 Bus-DeMeo taxonomic classes, arranged  
+        on a single page for easy reference and comparison.
+
+host_VARGBTEL_description.txt - Description of VARIOUS GROUND-BASED TELESCOPES - This is an automatically generated document that contains the description of the VARIOUS GROUND-BASED TELESCOPES instrument host.
+
+ref.txt - Reference List - The reference list for the bundle.
+
+instrument_VARGBDET_description.txt - Description of VARIOUS GROUND-BASED DETECTORS - This is an automatically generated document that contains the description of the VARIOUS GROUND-BASED DETECTORS instrument.
+
+AA_Document_Index.txt - Document Index - The file you are reading.
+
+collection_ast.bus-demeo.taxonomy_document_inventory.csv - Collection Inventory - An inventory of document products in this collection.
+

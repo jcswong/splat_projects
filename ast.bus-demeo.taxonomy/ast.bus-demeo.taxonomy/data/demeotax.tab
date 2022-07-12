@@ -1,0 +1,371 @@
+      1 Ceres             -          C   2005-05-19 a  
+      2 Pallas            -          B   2001-03-29 a  
+      3 Juno              -          Sq  2003-03-17 a  
+      4 Vesta             -          V   2000-10-09 a  
+      5 Astraea           -          S   2004-02-20 a  
+      7 Iris              -          S   2004-02-20 a  
+      8 Flora             -          Sw  2002-09-16 b  
+     10 Hygiea            -          C   2004-02-19 a  
+     11 Parthenope        -          Sq  2005-11-13 a  
+     13 Egeria            -          Ch  2005-05-19 a  
+     14 Irene             -          S   2001-05-17 a  
+     15 Eunomia           -          K   2004-02-19 a  
+     16 Psyche            -          Xk  2000-10-09 a  
+     17 Thetis            -          S   2001-08-15 a  
+     18 Melpomene         -          S   2001-06-22 a  
+     19 Fortuna           -          Ch  2006-01-29 a  
+     20 Massalia          -          S   2001-06-22 a  
+     21 Lutetia           -          Xc  2004-09-22 a  
+     22 Kalliope          -          X   2006-10-25 a  
+     24 Themis            -          C   2005-10-08 a  
+     25 Phocaea           -          S   2001-01-30 a  
+     26 Proserpina        -          S   2001-08-24 a  
+     27 Euterpe           -          S   2004-09-22 a  
+     28 Bellona           -          S   2002-01-13 a  
+     29 Amphitrite        -          S   2001-01-29 a  
+     30 Urania            -          S   2000-10-08 a  
+     32 Pomona            -          Sw  2001-01-30 a  
+     33 Polyhymnia        -          S   2002-03-06 a  
+     34 Circe             -          Ch  2004-02-20 a  
+     37 Fides             -          S   2001-08-15 a  
+     38 Leda              -          Cgh 2003-07-05 a  
+     39 Laetitia          -          Sqw 2001-08-14 a  
+     40 Harmonia          -          S   2004-10-16 a  
+     41 Daphne            -          Ch  2008-05-10 a  
+     42 Isis              -          K   2001-06-21 a  
+     43 Ariadne           -          Sq  2005-11-22 a  
+     48 Doris             -          Ch  2005-10-08 a  
+     49 Pales             -          Ch  2003-08-02 a  
+     50 Virginia          -          Ch  2003-07-05 a  
+     51 Nemausa           -          Cgh 2004-06-15 a  
+     52 Europa            -          C   2006-06-28 a  
+     54 Alexandra         -          Cgh 2002-10-27 a  
+     55 Pandora           -          Xk  2006-01-29 a  
+     56 Melete            -          Xk  2004-09-22 a  
+     57 Mnemosyne         -          S   2002-06-01 a  
+     58 Concordia         -          Ch  2003-08-02 a  
+     61 Danae             -          S   2000-10-08 a  
+     63 Ausonia           -          Sw  2003-09-30 a  
+     64 Angelina          -          Xe  2001-01-30 a  
+     65 Cybele            -          Xk  2003-09-30 a  
+     66 Maja              -          Ch  2005-11-22 a  
+     67 Asia              -          S   2004-06-16 a  
+     69 Hesperia          -          Xk  2005-05-11 a  
+     70 Panopaea          -          Cgh 2002-09-29 a  
+     73 Klytia            -          S   2003-10-16 b,c
+     76 Freia             -          C   2005-09-05 a  
+     77 Frigga            -          Xe  2006-10-25 a  
+     78 Diana             -          Ch  2005-10-31 a  
+     82 Alkmene           -          S   2001-08-24 a  
+     84 Klio              -          Ch  2003-08-02 a  
+     85 Io                -          C   2003-08-02 a  
+     87 Sylvia            -          X   2005-09-04 a  
+     90 Antiope           -          C   2005-09-05 a  
+     92 Undina            -          Xk  2000-10-08 a  
+     93 Minerva           -          C   2003-04-27 a  
+     96 Aegle             -          T   2006-01-28 a  
+     97 Klotho            -          Xc  2005-10-08 a  
+     99 Dike              -          Xk  2005-11-13 a  
+    101 Helena            -          S   2006-12-22 a  
+    103 Hera              -          S   2001-08-14 a  
+    105 Artemis           -          Ch  2003-08-02 a  
+    106 Dione             -          Cgh 2003-08-02 a  
+    108 Hecuba            -          Sw  2002-03-06 a  
+    110 Lydia             -          Xk  2001-01-29 a  
+    111 Ate               -          Ch  2004-09-22 a  
+    114 Kassandra         -          K   2006-06-28 a  
+    115 Thyra             -          S   2002-03-06 a  
+    119 Althaea           -          S   2001-06-21 a  
+    128 Nemesis           -          C   2003-08-02 a  
+    130 Elektra           -          Ch  2001-03-29 a  
+    131 Vala              -          K   2006-07-20 a  
+    132 Aethra            -          Xe  2005-09-05 a  
+    133 Cyrene            -          S   2001-06-22 a  
+    147 Protogeneia       -          C   2003-08-02 a  
+    150 Nuwa              -          C   2003-08-02 a  
+    151 Abundantia        -          Sw  2005-11-13 a  
+    153 Hilda             -          X   2005-05-10 a  
+    158 Koronis           -          S   2003-03-16 a  
+    160 Una               -          Xk  2003-07-05 a  
+    170 Maria             -          S   2001-06-22 a  
+    175 Andromache        -          Cg  2005-11-13 a  
+    180 Garumna           -          Sr  2002-09-28 a  
+    181 Eucharis          -          Xk  2003-09-30 a  
+    188 Menippe           -          S   2002-04-15 a  
+    191 Kolga             -          Cb  2005-04-12 a  
+    192 Nausikaa          -          Sw  2006-04-30 a  
+    199 Byblis            -          D   2003-03-17 a  
+    201 Penelope          -          Xk  2004-02-19 a  
+    205 Martha            -          Ch  2003-08-02 a  
+    210 Isabella          -          Cb  2005-11-13 a  
+    214 Aschera           -          Cgh 2004-10-24 a  
+    216 Kleopatra         -          Xe  2002-06-17 a  
+    221 Eos               -          K   2000-10-08 a  
+    226 Weringia          -          S   2002-03-06 a  
+    233 Asterope          -          Xk  2002-09-29 a  
+    234 Barbara           -          L   2006-12-22 a  
+    236 Honoria           -          L   2006-05-01 a  
+    237 Coelestina        -          Sr  2002-04-15 a  
+    243 Ida               -          Sw  2003-03-17 a  
+    244 Sita              -          Sw  2001-03-29 a  
+    246 Asporina          -          A   2005-03-09 a  
+    250 Bettina           -          Xk  2003-10-16 a  
+    258 Tyche             -          S   2001-08-24 a  
+    264 Libussa           -          S   2005-05-19 a  
+    266 Aline             -          Ch  2005-09-05 a  
+    267 Tirza             -          D   2003-08-02 a  
+    269 Justitia          -          D   2005-05-11 a  
+    278 Paulina           -          S   2002-05-31 a  
+    279 Thule             -          D   2005-01-08 a  
+    288 Glauke            -          S   2002-09-29 a  
+    289 Nenetta           -          A   2000-09-04 a  
+    295 Theresia          -          Sw  2002-09-28 a  
+    308 Polyxo            -          T   2005-04-18 a  
+    322 Phaeo             -          D   2002-09-29 a  
+    337 Devosa            -          Xk  2002-09-28 a  
+    345 Tercidina         -          Ch  2005-10-08 a  
+    346 Hermentaria       -          S   2002-05-31 a  
+    349 Dembowska         -          R   2001-06-22 a  
+    352 Gisela            -          Sw  2001-06-22 a  
+    354 Eleonora          -          A   2002-04-15 a  
+    359 Georgia           -          Xk  2001-01-30 a  
+    371 Bohemia           -          S   2001-08-14 a  
+    378 Holmia            -          S   2002-04-14 a  
+    387 Aquitania         -          L   2003-04-27 a  
+    389 Industria         -          S   2001-08-24 a  
+    402 Chloe             -          L   2001-02-19 a  
+    403 Cyane             -          S   2003-04-27 a  
+    433 Eros              -          Sw  2002-08-17 a  
+    434 Hungaria          -          Xe  2001-08-23 a  
+    444 Gyptis            -          C   2001-08-15 a  
+    446 Aeternitas        -          A   2001-08-14 a  
+    453 Tea               -          Sw  2001-08-15 a  
+    456 Abnoba            -          S   2002-06-17 a  
+    460 Scania            -          L   2002-06-17 a  
+    485 Genua             -          S   2002-03-06 a  
+    512 Taurinensis       -          Sqw 2004-10-16 a  
+    513 Centesima         -          K   2001-03-29 a  
+    532 Herculina         -          S   2001-06-21 a  
+    570 Kythera           -          D   2004-02-20 a  
+    579 Sidonia           -          K   2001-02-20 a  
+    596 Scheila           -          T   2002-06-01 a  
+    599 Luisa             -          L   2001-02-19 a  
+    606 Brangane          -          L   2002-09-29 a  
+    625 Xenia             -          Sw  2001-02-20 a  
+    631 Philippina        -          S   2002-09-29 a  
+    653 Berenike          -          K   2003-03-17 a  
+    661 Cloelia           -          K   2003-03-16 a  
+    670 Ottegebe          -          S   2002-09-29 a  
+    673 Edda              -          L   2001-06-21 a  
+    675 Ludmilla          -          Sw  2002-04-15 a  
+    679 Pax               -          L   2001-02-19 a  
+    688 Melanie           -          C   2002-09-28 a  
+    699 Hela              -          S   2005-01-08 a  
+    706 Hirundo           -          Cgh 2006-01-30 a  
+    716 Berkeley          -          S   2001-08-24 a  
+    719 Albert            -          S   2001-08-23 d  
+    720 Bohlinia          -          Sq  2000-10-09 a  
+    729 Watsonia          -          L   2001-08-14 a  
+    739 Mandeville        -          Xc  2002-09-28 a  
+    742 Edisona           -          K   2003-03-16 a  
+    773 Irmintraud        -          T   2004-09-22 a  
+    776 Berbericia        -          Cgh 2005-04-12 a  
+    782 Montefiore        -          Sw  2001-06-22 a  
+    785 Zwetana           -          Cb  2005-05-19 a  
+    789 Lena              -          Xk  2002-08-17 a  
+    793 Arizona           -          S   2002-09-28 a  
+    808 Merxia            -          Sr  2001-08-14 a  
+    824 Anastasia         -          L   2001-08-14 a  
+    832 Karin             -          S   2003-07-05 e  
+    847 Agnia             -          S   2001-02-19 a  
+    863 Benkoela          -          A   2002-01-14 a  
+    908 Buda              -          D   2006-07-20 a  
+    913 Otila             -          Sw  2001-08-15 a  
+    925 Alphonsina        -          S   2002-09-28 a  
+    929 Algunde           -          S   2001-06-21 a  
+    944 Hidalgo           -          D   2004-09-22 e  
+    984 Gretia            -          Sa  2002-09-29 a  
+    985 Rosina            -          S   2005-05-11 a  
+   1011 Laodamia          -          Sw  2002-01-12 a  
+   1020 Arcadia           -          Sr  2003-03-17 a  
+   1036 Ganymed           -          S   2005-03-09 a  
+   1065 Amundsenia        -          S   2005-03-08 a  
+   1094 Siberia           -          Xk  2003-03-16 a  
+   1126 Otero             -          Sw  2001-02-20 a  
+   1131 Porzia            -          S   2005-05-11 a  
+   1139 Atami             -          Sw  2005-09-05 a  
+   1143 Odysseus          -          D   2005-06-10 b  
+   1147 Stavropolis       -          Sw  2001-08-15 a  
+   1148 Rarahu            -          K   2001-03-29 a  
+   1198 Atlantis          -          Sw  2002-10-28 b  
+   1204 Renzia            -          Sw  2005-03-10 a  
+   1228 Scabiosa          -          Sr  2003-03-16 a  
+   1300 Marcelle          -          Cgh 2006-10-25 a  
+   1329 Eliane            -          Sqw 2002-08-17 a  
+   1332 Marconia          -          L   2005-06-10 a  
+   1350 Rosselia          -          S   2001-06-21 a  
+   1374 Isora             -          Sq  2004-02-20 a  
+   1433 Geramtina         -          S   2002-08-17 a  
+   1459 Magnya            -          Vw  2001-02-20 b  
+   1471 Tornio            -          D   2005-10-08 a  
+   1494 Savo              -          Sqw 2006-10-25 a  
+   1508 Kemi              -          B   2004-02-19 a  
+   1542 Schalen           -          D   2005-04-18 a  
+   1565 Lemaitre          -          S   2005-03-03 a  
+   1620 Geographos        -          S   2001-01-29 a  
+   1640 Nemo              -          S   2005-03-08 a  
+   1642 Hill              -          S   2001-08-15 a  
+   1658 Innes             -          Sw  2001-01-30 c  
+   1659 Punkaharju        -          S   2002-03-15 a  
+   1660 Wood              -          S   2005-03-08 a  
+   1662 Hoffmann          -          Sr  2003-03-17 a  
+   1667 Pels              -          Sw  2002-10-28 a  
+   1685 Toro              -          Sq  2002-05-08 h  
+   1751 Herget            -          S   2001-06-22 a  
+   1807 Slovakia          -          Sqw 2004-09-15 a  
+   1839 Ragazza           -          S   2001-03-29 a  
+   1848 Delvaux           -          S   2001-08-15 a  
+   1858 Lobachevskij      -          S   2002-04-14 a  
+   1862 Apollo            -          Q   2005-11-13 a  
+   1864 Daedalus          -          Sq  2001-03-29 a  
+   1866 Sisyphus          -          Sw  2006-11-21 a  
+   1903 Adzhimushkaj      -          K   2003-03-17 a  
+   1904 Massevitch        -          V   2000-09-04 a  
+   1916 Boreas            -          Sw  2001-08-14 d  
+   1929 Kollaa            -          V   2001-02-19 a  
+   1943 Anteros           -          Sw  2002-01-12 g,h
+   1980 Tezcatlipoca      -          Sw  2006-10-25 a  
+   2035 Stearns           -          Xe  2002-10-28 a  
+   2042 Sitarski          -          Sr  2001-08-23 a  
+   2045 Peking            -          V   2002-01-14 a  
+   2063 Bacchus           -          Sq  2005-05-19 a  
+   2064 Thomsen           -          Sqw 2006-06-29 a  
+   2074 Shoemaker         -          Sw  2003-09-30 b  
+   2085 Henan             -          L   2002-04-14 a  
+   2099 Opik              -          Ch  2005-10-08 a  
+   2107 Ilmari            -          Sw  2006-01-29 a  
+   2157 Ashbrook          -          S   2003-03-16 a  
+   2246 Bowell            -          D   2005-04-17 a  
+   2335 James             -          S   2005-10-30 a  
+   2353 Alva              -          S   2002-05-31 a  
+   2354 Lavrov            -          L   2003-03-17 a  
+   2378 Pannekoek         -          Cgh 2005-05-11 a  
+   2386 Nikonov           -          S   2002-06-17 a  
+   2396 Kochi             -          S   2001-08-15 a  
+   2401 Aehlita           -          S   2002-08-17 a  
+   2442 Corbett           -          V   2002-09-15 c  
+   2448 Sholokhov         -          L   2003-03-16 a  
+   2501 Lohja             -          A   2002-01-12 a  
+   2504 Gaviola           -          Sr  2003-04-27 a  
+   2521 Heidi             -          S   2002-01-13 a  
+   2566 Kirghizia         -          V   2002-09-16 a  
+   2579 Spartacus         -          V   2000-10-10 a  
+   2715 Mielikki          -          Sw  2001-08-15 a  
+   2732 Witt              -          L   2001-08-15 a  
+   2851 Harbin            -          V   2001-08-24 a  
+   2873 Binzel            -          Sq  2002-01-13 a  
+   2875 Lagerkvist        -          S   2002-03-16 a  
+   2911 Miahelena         -          Sw  2003-03-17 a  
+   2912 Lapalma           -          V   2001-02-20 a  
+   2957 Tatsuo            -          K   2003-03-16 a  
+   2965 Surikov           -          Sv  2005-05-10 b  
+   2977 Chivilikhin       -          S   2002-09-28 a  
+   3028 Zangguoxi         -          K   2002-09-16 a  
+   3102 Krok              -          Sqw 2000-10-09 d  
+   3103 Eger              -          Xe  2001-06-21 i  
+   3122 Florence          -          Sqw 2004-01-26 a  
+   3155 Lee               -          V   2001-06-22 a  
+   3198 Wallonia          -          Sqw 2005-05-10 a  
+   3199 Nefertiti         -          K   2005-03-03 a  
+   3200 Phaethon          -          B   2004-12-10 a  
+   3248 Farinella         -          D   2005-04-18 a  
+   3255 Tholen            -          S   2002-09-16 a  
+   3317 Paris             -          D   2006-05-01 a  
+   3363 Bowen             -          Sr  2002-04-15 a  
+   3395 Jitka             -          S   2001-02-19 a  
+   3402 Wisdom            -          S   2003-09-30 e  
+   3430 Bradfield         -          S   2002-06-17 a  
+   3491 Fridolin          -          S   2002-06-17 a  
+   3511 Tsvetaeva         -          Srw 2002-04-15 a  
+   3628 Boznemcova        -          O   2006-04-30 a  
+   3635 Kreutz            -          Srw 2005-11-12 a  
+   3701 Purkyne           -          S   2001-08-14 a  
+   3734 Waland            -          L   2001-08-24 a  
+   3753 Cruithne          -          Q   2005-10-08 a  
+   3788 Steyaert          -          S   2003-03-17 a  
+   3844 Lujiaxi           -          L   2003-04-27 a  
+   3858 Dorchester        -          Srw 2004-02-20 a  
+   3873 Roddy             -          Sw  2002-10-28 a  
+   3903 Kliment Ohridski  -          S   2002-09-16 a  
+   3908 Nyx               -          V   2004-09-15 a  
+   3910 Liszt             -          S   2002-08-17 a  
+   3920 Aubignan          -          Sqw 2002-09-16 a  
+   3949 Mach              -          Sq  2001-08-24 a  
+   4038 Kristina          -          Vw  2002-10-28 d  
+   4055 Magellan          -          V   2005-04-11 d  
+   4179 Toutatis          -          Sq  2004-09-15 a  
+   4188 Kitezh            -          V   2001-08-14 a  
+   4197 -                 1982 TA    Sq  2003-09-30 a  
+   4352 Kyoto             -          S   2002-06-17 a  
+   4407 Taihaku           -          Sqw 2001-08-24 a  
+   4417 Lecar             -          Sw  2001-08-24 a  
+   4451 Grieve            -          Svw 2002-01-14 d  
+   4558 Janesick          -          Sr  2004-06-15 a  
+   4570 Runcorn           -          Sw  2001-06-21 a  
+   4688 -                 1980 WF    Q   2001-01-29 d  
+   4713 Steel             -          Sw  2002-04-14 a  
+   4737 Kiladze           -          L   2002-06-17 a  
+   4995 Griffin           -          S   2002-10-28 a  
+   5013 Suzhousanzhong    -          Sw  2002-01-14 a  
+   5111 Jacliff           -          V   2005-09-05 a  
+   5143 Heracles          -          Q   2006-10-25 a  
+   5230 Asahina           -          S   2005-09-05 a  
+   5261 Eureka            -          Sa  2005-05-19 a  
+   5379 Abehiroshi        -          Sr  2006-06-03 a  
+   5401 Minamioda         -          Sw  2003-03-16 a  
+   5407 -                 1992 AX    S   2002-01-13 a  
+   5587 -                 1990 SB    Sr  2001-03-28 a  
+   5604 -                 1992 FE    V   2001-03-29 f  
+   5641 McCleese          -          Sw  2005-04-12 a  
+   5660 -                 1974 MA    Q   2093-08-22 a  
+   5685 Sanenobufukui     -          S   2001-03-29 a  
+   5817 Robertfrazer      -          Sr  2004-09-22 a  
+   5840 Raybrown          -          L   2001-08-24 a  
+   6047 -                 1991 TB1   S   2005-10-08 a  
+   6239 Minos             -          Sqw 2004-01-26 e  
+   6386 Keithnoll         -          S   2005-03-03 a  
+   6411 Tamaga            -          B   2004-02-20 e  
+   6455 -                 1992 HE    Srw 2002-10-28 a  
+   6585 O'Keefe           -          S   2006-10-25 a  
+   7341 -                 1991 VK    Q   2002-03-16 a  
+   7763 Crabeels          -          L   2002-06-01 a  
+   8334 -                 1984 CF    S   2003-03-17 a  
+   8444 Popovich          -          S   2003-09-30 e  
+  17274 -                 2000 LC16  D   2000-10-10 d  
+  18736 -                 1998 NU    Sw  2001-01-30 d  
+  19127 Olegefremov       -          Srw 2003-09-30 e  
+  19356 -                 1997 GH3   Sq  2001-01-30 a  
+  20786 -                 2000 RG62  Sq: 2003-09-01 d  
+  20790 -                 2000 SE45  S   2001-01-29 d  
+  22771 -                 1999 CU3   S   2003-10-16 d  
+  24475 -                 2000 VN2   Sw  2001-03-29 d  
+  25330 -                 1999 KV4   Xk: 2002-10-27 d  
+  35107 -                 1991 VH    Sq  2002-12-27 a  
+  36284 -                 2000 DM8   K   2002-03-16 d  
+  53435 -                 1999 VM40  Srw 2006-10-25 g  
+  54690 -                 2001 EB    S   2001-03-28 d  
+  66146 -                 1998 TU3   Q   2003-09-01 e  
+  86450 -                 2000 CK33  L   2001-01-29 d  
+  86819 -                 2000 GK137 Sq  2000-10-09 d  
+  89355 -                 2001 VS78  Sr  2002-03-16 a  
+  98943 -                 2001 CC21  Sw  2004-10-24 f  
+  99907 -                 1989 VA    Sr  2002-10-27 a  
+ 137062 -                 1998 WM    Sr  2002-10-27 a  
+ 138258 -                 2000 GD2   Sq  2003-10-16 d  
+ 162058 -                 1997 AE12  Q   2002-03-15 a  
+ 162781 -                 2000 XL44  S   2001-01-29 d  
+      0 -                 2000 PG3   D   2000-09-04 d  
+      0 -                 2001 TX16  X   2002-03-15 d  
+      0 -                 2001 XN254 S   2002-04-14 d  
+      0 -                 2002 AA    S   2002-01-13 d  
+      0 -                 2002 AV    S   2002-01-13 d  

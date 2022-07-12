@@ -1,0 +1,13 @@
+VARIOUS GROUND-BASED DETECTORS
+==============================
+
+  Instrument Overview                                                         
+  ===================                                                         
+    This instrument name is used when a data set consists of observations     
+    taken, usually over a long period of time, by various types of detectors  
+    attached to one or more ground-based telescopes.  The VARGBDET identifier 
+    is used when it is not possible or not practical to identify even the     
+    generic type of detector associated with the individual observations      
+    comprising the data set.  The published references listed in the          
+    corresponding data set description may provide more information.
+

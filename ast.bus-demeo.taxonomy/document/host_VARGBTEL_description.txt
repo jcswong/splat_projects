@@ -1,0 +1,13 @@
+VARIOUS GROUND-BASED TELESCOPES
+===============================
+
+  Instrument Host Overview                                                    
+  ========================                                                    
+    This instrument host is used for those datasets that consist of surveys   
+    taken, usually over long periods of time, at various ground-based         
+    observatories.  The VARGBTEL host is used when it is not possible or      
+    practical to attempt to determine which specific observatory and/or       
+    telescope was used for individual results reported.  Some additional more 
+    specific information may be available in the published references cited in
+    the corresponding data set description.
+
