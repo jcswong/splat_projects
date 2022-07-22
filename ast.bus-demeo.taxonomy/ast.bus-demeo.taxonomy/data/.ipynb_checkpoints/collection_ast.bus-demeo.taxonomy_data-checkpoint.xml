@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1A00.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<Product_Collection xmlns="http://pds.nasa.gov/pds4/pds/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pds.nasa.gov/pds4/pds/v1 https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1A00.xsd">
+  <Identification_Area>
+    <logical_identifier>urn:nasa:pds:ast.bus-demeo.taxonomy:data</logical_identifier>
+    <version_id>1.0</version_id>
+    <title>data collection for the "BUS-DEMEO ASTEROID TAXONOMY" bundle</title>
+    <information_model_version>1.10.0.0</information_model_version>
+    <product_class>Product_Collection</product_class>
+    <Citation_Information>
+      <author_list>DeMeo, F.;Binzel, R.P.;Slivan, S.M.;Bus, S.J.</author_list>
+      <publication_year>2009</publication_year>
+      <description>This is the data collection for the ast.bus-demeo.taxonomy bundle. 
+The Bus-DeMeo asteroid taxonomy         
+        classification system, described in DeMeo et al. (2009), is based on  
+        reflectance spectrum characteristics for 371 asteroids measured over  
+        the wavelength 0.45 to 2.45 microns.  This system of 24 classes is    
+        constructed using principal component analysis, following most closely
+        the visible wavelength taxonomy of Bus (1999), which itself builds    
+        upon the system of Tholen (1984).  Nearly all of the Bus taxonomy     
+        classes are preserved, with one new class (Sv) defined.  This data set
+        includes a table of classifications in the Bus-DeMeo system for the   
+        371 asteroids upon which the system is based.  It also includes mean  
+        spectra for each of the classes.</description>
+    </Citation_Information>
+    <Modification_History>
+      <Modification_Detail>
+        <modification_date>2020-06-12</modification_date>
+        <version_id>1.0</version_id>
+        <description>Migrated from EAR-A-VARGBDET-5-BUSDEMEOTAX-V1.0</description>
+      </Modification_Detail>
+    </Modification_History>
+  </Identification_Area>
+  <Context_Area>
+    <Time_Coordinates>
+      <start_date_time>1991-10-25Z</start_date_time>
+      <stop_date_time>2008-05-10Z</stop_date_time>
+    </Time_Coordinates>
+    <Primary_Result_Summary>
+      <purpose>Science</purpose>
+      <processing_level>Derived</processing_level>
+      <Science_Facets>
+        <discipline_name>Small Bodies</discipline_name>
+        <facet1>Taxonomy</facet1>
+      </Science_Facets>
+    </Primary_Result_Summary>
+    <Investigation_Area>
+      <name>None</name>
+      <type>Individual Investigation</type>
+      <Internal_Reference>
+        <lid_reference>urn:nasa:pds:context:investigation:individual.none</lid_reference>
+        <reference_type>collection_to_investigation</reference_type>
+      </Internal_Reference>
+    </Investigation_Area>
+    <Observing_System>
+      <Observing_System_Component>
+        <name>Various Ground-Based Telescopes</name>
+        <type>Telescope</type>
+        <description>This instrument host is used for those datasets that consist of surveys taken,
+usually over long periods of time, at various ground-based observatories.  The
+VARGBTEL host is used when it is not possible or practical to attempt to determine
+which specific observatory and/or telescope was used for individual results reported.
+Some additional more specific information may be available in the published
+references cited in the corresponding data set description.</description>
+      </Observing_System_Component>
+      <Observing_System_Component>
+        <name>Various Ground-Based Detectors</name>
+        <type>Instrument</type>
+        <description>This instrument name is used when a data set consists of observations taken, usually
+over a long period of time, by various types of detectors attached to one or more
+ground-based telescopes.  The VARGBDET identifier is used when it is not possible or
+not practical to identify even the generic type of detector associated with the
+individual observations comprising the data set.  The published references listed in
+the corresponding data set description may provide more information.</description>
+      </Observing_System_Component>
+    </Observing_System>
+    <Target_Identification>
+      <name>Multiple Asteroids</name>
+      <type>Asteroid</type>
+    </Target_Identification>
+  </Context_Area>
+  <Collection>
+    <collection_type>Data</collection_type>
+  </Collection>
+  <File_Area_Inventory>
+    <File>
+      <file_name>collection_ast.bus-demeo.taxonomy_data_inventory.csv</file_name>
+      <local_identifier>data</local_identifier>
+      <file_size unit="byte">252</file_size>
+      <records>4</records>
+    </File>
+    <Inventory>
+      <offset unit="byte">0</offset>
+      <parsing_standard_id>PDS DSV 1</parsing_standard_id>
+      <records>4</records>
+      <record_delimiter>Carriage-Return Line-Feed</record_delimiter>
+      <field_delimiter>Comma</field_delimiter>
+      <Record_Delimited>
+        <fields>2</fields>
+        <groups>0</groups>
+        <Field_Delimited>
+          <name>Member Status</name>
+          <field_number>1</field_number>
+          <data_type>ASCII_String</data_type>
+          <maximum_field_length unit="byte">1</maximum_field_length>
+        </Field_Delimited>
+        <Field_Delimited>
+          <name>LIDVID_LID</name>
+          <field_number>2</field_number>
+          <data_type>ASCII_LIDVID_LID</data_type>
+          <maximum_field_length unit="byte">255</maximum_field_length>
+        </Field_Delimited>
+      </Record_Delimited>
+      <reference_type>inventory_has_member_product</reference_type>
+    </Inventory>
+  </File_Area_Inventory>
+</Product_Collection>
+
