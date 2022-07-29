@@ -1,0 +1,17 @@
+Reference List for the BUS-DEMEO ASTEROID TAXONOMY bundle
+=========================================================
+
+Bus, S. J., Compositional structure in  
+        the asteroid belt: Results of a spectroscopic survey. PhD thesis,     
+        Massachusetts Institute of Technology, 1999. 
+
+DeMeo, F., R.P. Binzel, S.M. Slivan, and
+        S.J. Bus, An extension of the Bus asteroid taxonomy into the          
+        near-infrared, Icarus 202, 160-180, 2009.                             
+                                                                              
+          
+
+Tholen, D.J., Asteroid Taxonomy from    
+        Cluster Analysis of Photometry, Ph.D. dissertation, University of     
+        Arizona, 1984.
+
